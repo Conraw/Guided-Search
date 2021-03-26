@@ -1,4 +1,4 @@
-# CS461-1
+# Guided Search
 Connor Schafer
-461 Program1
+
 All code is in Cities.h and source.cpp
